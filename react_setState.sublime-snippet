@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+this.setState(${1:(state, props) => ${0}});
+]]></content>
+    <tabTrigger>sst</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: this.setState(…)</description>
+</snippet>

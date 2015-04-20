@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+getInitialState() {
+	${1:return \{${0}\};}
+},
+]]></content>
+    <tabTrigger>gis</tabTrigger>
+    <scope>source.js meta.group.braces.round meta.group.braces.curly -(meta meta meta)</scope>
+    <description>React: getInitialState() {…}</description>
+</snippet>

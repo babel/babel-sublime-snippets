@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+render() {
+	return ${1:(
+		${2:<div>${0}</div>}
+	);}
+}
+]]></content>
+    <tabTrigger>ren</tabTrigger>
+    <scope>source.js meta.group.braces.round meta.group.braces.curly -(meta meta meta), source.js meta.class.js -(meta meta)</scope>
+    <description>React: render() {…}</description>
+</snippet>
