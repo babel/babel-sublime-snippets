@@ -1,6 +1,6 @@
 # babel-sublime-snippets
 
-Snippets for [ES6 JavaScript](http://kangax.github.io/compat-table/es6/) and [React](http://facebook.github.io/react/docs/jsx-in-depth.html).
+Sublime snippets for [next generation JavaScript](http://kangax.github.io/compat-table/es6/) and [React](http://facebook.github.io/react/docs/component-specs.html).
 
 ## Installation
 
