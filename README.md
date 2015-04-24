@@ -10,7 +10,7 @@ Find it as [**Babel Snippets**](https://packagecontrol.io/packages/Babel Snippet
 
 First, select a block of JSX. Then, from the Command Palette select "React: wrap in a component". Or, you can set up key binding.
 
-To set a key binding, go to "Preferences: Key Bindings - User" from the Command Palatte and an entry like this:
+To set a key binding, go to "Preferences: Key Bindings - User" from the Command Palette and an entry like this:
 
 ```json
 {
