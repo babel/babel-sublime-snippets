@@ -1,6 +1,6 @@
 # babel-sublime-snippets
 
-Sublime snippets for [next generation JavaScript](http://kangax.github.io/compat-table/es6/) and [React](http://facebook.github.io/react/docs/component-specs.html).
+Sublime snippets for [ES6+ JavaScript](http://kangax.github.io/compat-table/es6/) and [React](http://facebook.github.io/react/docs/component-specs.html).
 
 ## Installation
 
@@ -8,9 +8,9 @@ Find it as [**Babel Snippets**](https://packagecontrol.io/packages/Babel Snippet
 
 ## Using the "React: wrap in a component" snippet
 
-First, select a block of JSX. Then, from the Command Palette select "React: wrap in a component". Or, you can set up key binding.
+First, select a block of JSX. Then, from the Command Palette select "React: wrap in a component". Or, you can set up a key binding.
 
-To set a key binding, go to "Preferences: Key Bindings - User" from the Command Palette and an entry like this:
+To set a key binding, go to "Preferences: Key Bindings - User" from the Command Palette and add an entry like this:
 
 ```json
 {
