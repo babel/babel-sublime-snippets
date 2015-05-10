@@ -17,7 +17,7 @@ To set a key binding, go to "Preferences: Key Bindings - User" from the Command 
   "keys": ["ctrl+shift+,"],
   "command": "insert_snippet",
   "args": {
-    "name": "Packages/Babel Sublime Snippets/react_wrap.sublime-snippet"
+    "name": "Packages/Babel Snippets/react_wrap.sublime-snippet"
   }
 }
 ```
