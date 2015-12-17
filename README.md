@@ -1,6 +1,6 @@
 # babel-sublime-snippets
 
-Sublime snippets for [ES6+ JavaScript](http://kangax.github.io/compat-table/es6/) and [React](http://facebook.github.io/react/docs/component-specs.html).
+Sublime snippets for [React](http://facebook.github.io/react/docs/component-specs.html) in ES5 and [ES6](http://kangax.github.io/compat-table/es6/) flavors.
 
 ## Installation
 
@@ -23,8 +23,6 @@ To set a key binding, go to "Preferences: Key Bindings - User" from the Command 
 ```
 
 ## Available snippets
-
-### ES6
 
 ### React
 
