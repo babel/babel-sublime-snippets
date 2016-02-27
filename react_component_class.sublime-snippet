@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-import React from 'react';
+import React, { Component } from 'react';
 
-export class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}} extends React.Component {
+export class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}} extends Component {
 	render() {
 		return ${2:(
 			${3:<div>${0}</div>}
