@@ -44,10 +44,25 @@ To set a key binding, go to "Preferences: Key Bindings - User" from the Command 
 | `scu→`   | `shouldComponentUpdate(nextProps, nextState) {…}` |
 | `props→` | `this.props` |
 | `state→` | `this.state` |
+| `pt→`    | `propTypes { ... }` |
+| `pta→`   | `PropTypes.arrayOf` |
+| `ptai→`  | `PropTypes.arrayOf (Instances)` |
+| `ptb→`   | `PropTypes.bool` |
+| `pte→`   | `PropTypes.element` |
+| `ptf→`   | `PropTypes.func` |
+| `pti→`   | `PropTypes.instanceOf` |
+| `ptn→`   | `PropTypes.number` |
+| `ptn→`   | `PropTypes.node` |
+| `pto→`   | `PropTypes.object` |
+| `ptof→`  | `PropTypes.oneOf (Enum)` |
+| `ptof→`  | `PropTypes.objectOf` |
+| `ptoft→` | `PropTypes.oneOfType (Union)` |
+| `pts→`   | `PropTypes.string` |
+| `ptsp→`  | `PropTypes.shape` |
 
 ## Notes
 
-  * Unsupported React API snippets: `displayName`, `forceUpdate`, `getDOMNode` (use `React.findDOMNode`), `ismounted`, `mixins`, `propTypes`, `replaceProps`, `replaceState`, `setProps`, `statics`.
+  * Unsupported React API snippets: `displayName`, `forceUpdate`, `getDOMNode` (use `React.findDOMNode`), `ismounted`, `mixins`, `replaceProps`, `replaceState`, `setProps`, `statics`.
 
 ## Snippet(ing)
 
