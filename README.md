@@ -4,7 +4,7 @@ Sublime snippets for [React](http://facebook.github.io/react/docs/component-spec
 
 ## Installation
 
-Find it as [**Babel Snippets**](https://packagecontrol.io/packages/Babel Snippets) through [Package Control](https://packagecontrol.io/).
+Find it as [**Babel Snippets**](https://packagecontrol.io/packages/Babel%20Snippets) through [Package Control](https://packagecontrol.io/).
 
 ## Using the "React: wrap in a component" snippet
 
