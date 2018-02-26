@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1}: React.PropTypes.shape({
+${1}: PropTypes.shape({
   $0
 })
 ]]></content>

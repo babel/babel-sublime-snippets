@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1}: React.PropTypes.instanceOf(${2:Class})${3:.isRequired}$0
+${1}: PropTypes.instanceOf(${2:Class})${3:.isRequired}$0
 ]]></content>
     <tabTrigger>pti</tabTrigger>
     <scope>source.js</scope>

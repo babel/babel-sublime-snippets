@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1}: React.PropTypes.element${2:.isRequired}$0
+${1}: PropTypes.element${2:.isRequired}$0
 ]]></content>
     <tabTrigger>pte</tabTrigger>
     <scope>source.js</scope>
